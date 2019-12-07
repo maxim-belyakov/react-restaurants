@@ -1,0 +1,39 @@
+{
+  "name": "react-restaurants",
+  "version": "1.0.17",
+  "description": "List of restaurants with sorting and searching using React JS",
+  "keywords": [
+    "react",
+    "list",
+    "demo",
+    "sample",
+    "restaurant"
+  ],
+  "author": "Maxim Belyakov <maxim.a.belyakov@gmail.com> (https://belyakov.site)",
+  "license": "MIT",
+  "homepage": "https://github.com/maxim-belyakov/react-restaurants",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxim-belyakov/react-restaurants.git"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "2.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
